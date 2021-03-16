@@ -8,7 +8,7 @@ The characterization and understanding of Open Clusters (OCs) allow us to unders
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 
-[![Python 3.8](https://img.shields.io/badge/Keras-2.2.-blue)](https://github.com/keras-team/keras/releases/tag/2.2.0)
+[![Keras 2.2](https://img.shields.io/badge/Keras-2.2.-blue)](https://github.com/keras-team/keras/releases/tag/2.2.0)
 
 [![Jupyter][jupyter_badge]][notebooks_link]
 [![Astropy][astropy_badge]][astropy_link]

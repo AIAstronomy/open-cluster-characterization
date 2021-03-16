@@ -6,6 +6,16 @@ The characterization and understanding of Open Clusters (OCs) allow us to unders
 
 ### [Machine Learning Tools for Open Cluster Characterization with Gaia DR2 Data](https://github.com/cdalvaro/machine-learning-master-thesis)
 
+[![Python][python_badge]][python_link]
+[![keras][keras_badge]][keras_link]
+[![Jupyter][jupyter_badge]][notebooks_link]
+[![Astropy][astropy_badge]][astropy_link]
+
 Author: Álvaro Yunta, Carlos D. [@cdalvaro](https://github.com/cdalvaro)
 
 Advisor: Guzmán-Álvarez, César A. [@cguz](https://github.com/cguz)
+
+#### Papers:
+
+- Working on one conference paper
+- Working on one journal paper

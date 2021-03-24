@@ -10,7 +10,7 @@ The characterization and understanding of Open Clusters (OCs) allow us to unders
 
 Author: Álvaro Yunta, Carlos D. [@cdalvaro](https://github.com/cdalvaro)
 
-Advisor: Guzmán-Álvarez, César A. [@cguz](https://github.com/cguz)
+Co-Author and Advisor: Guzmán-Álvarez, César A. [@cguz](https://github.com/cguz)
 
 #### Papers:
 
